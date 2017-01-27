@@ -1,5 +1,5 @@
 
 # Kappale 1 (?)
 
-*	Käyn nyt kurssia _Introduction to Open Data Science_ (78995) ja toivon oppivani paljon uutta ja tärkeää.
-* [GitHub-projektisivuni](https://github.com/Zeick/IODS-project).
+-	Käyn nyt kurssia _Introduction to Open Data Science_ (78995) ja toivon oppivani paljon uutta ja tärkeää.
+- [GitHub-projektisivuni](https://github.com/Zeick/IODS-project).
