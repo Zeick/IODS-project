@@ -1,0 +1,3 @@
+# Muistiinpanoja
+
+[Kurssipäiväkirja](https://zeick.github.io/IODS-project/) täydentyy ajan kuluessa. RStudio ja RMarkdown ovat hyvin miellyttäviä työkaluja ja uskon vakaasti, että niiden käytön opettelusta on minulle tulevaisuudessa suurta hyötyä :smirk: :star: :+1:
