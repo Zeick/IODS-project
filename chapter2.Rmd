@@ -34,7 +34,7 @@ library(ggplot2)
 summary(lrn14)
 pairs(lrn14[-1],col=lrn14$gender) # It's hard to see anything from this
 ```
-[The plot](Overview.png) is very hard to interpret. [Here's a more advanced plot matrix](Overview2.png) with ggpairs(), where you can actually see something.
+[The plot](https://github.com/Zeick/IODS-project/blob/master/data/Overview.png) is very hard to interpret. [Here's a more advanced plot matrix](https://github.com/Zeick/IODS-project/blob/master/data/Overview2.png) with ggpairs(), where you can actually see something.
 ```{r eval=FALSE}
 p <- ggpairs(lrn14, mapping = aes(col=gender,alpha=0.3), lower = list(combo = wrap("facethist", bins = 20)))
 p
@@ -121,7 +121,7 @@ This is how we can estimate what the test score of any student is, if we know hi
 par(mfrow = c(2,2))
 plot(my_model2,which=(c(1,2,5)))
 ```
-[The output plots are here.](Diagnostics.png) Residuals VS Fitted supports my theory that Points are fitted okayish with attitude-curve. There are approximately some amount of data point both up and down half-planes with respect to the fit line. However it is easily seen that many point lie far from the fit line.
+[The output plots are here.](https://github.com/Zeick/IODS-project/blob/master/data/Diagnostics.png) Residuals VS Fitted supports my theory that Points are fitted okayish with attitude-curve. There are approximately some amount of data point both up and down half-planes with respect to the fit line. However it is easily seen that many point lie far from the fit line.
 
 Normal Q-Q supports the assumption that the errors are distributed along the Gaussian normal distribution, since almost all the points appear to follow a straight line.
 
