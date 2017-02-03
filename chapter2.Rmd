@@ -26,7 +26,8 @@ X          gender       Age           attitude          deep
  Mean   :3.121   Mean   :2.787   Mean   :22.72  
  3rd Qu.:3.625   3rd Qu.:3.167   3rd Qu.:27.75  
  Max.   :5.000   Max.   :4.333   Max.   :33.00  
- ```
+```
+ 
 ## EXERCISE 2
 ```{r eval=FALSE}
 library(GGally)
